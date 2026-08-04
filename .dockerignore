@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+README.md
+k8s/
+verify_pipeline_pandas.py

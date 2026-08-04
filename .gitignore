@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/
+predict_payload.json
+.DS_Store
